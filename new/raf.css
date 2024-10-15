@@ -1,0 +1,13 @@
+H1 {
+	color: red ;
+	front-size:300%;
+	front-family: Arial, Verdana, sans-serif;
+	text-align: left;
+}
+.test {
+	text-align: center;
+}
+#new_id {
+	text-align: right;
+	color: yellow ;
+}
